@@ -31,10 +31,9 @@ Translations:
 
 
 ---
+
 <style>
   div:hover img {
-      content: "StickerIt.AI";
-      color: #fff;
       cursor: pointer;
   }
 </style>
