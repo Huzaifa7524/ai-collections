@@ -32,18 +32,12 @@ Translations:
 
 ---
 
-<style>
-  div:hover img {
-      cursor: pointer;
-  }
-</style>
-
 ## AI Chat Aur Assistant
 
 ### **ChatGPT Paid + Free**
 <div align="center">
     <a href="https://chat.openai.com/" target="_blank">
-       <img src="./images/ChatGPT.webp" alt="gpt" style=" border: 2px solid #ddd; border-radius: 8px;">
+       <img src="./images/ChatGPT.webp" alt="gpt" style=" border: 2px solid #ddd; border-radius: 8px; cursor: pointer;">
     </a>
 </div>
 
@@ -57,7 +51,7 @@ ChatGPT ek mashhoor conversational AI hai jo aapke sawalon ke behtareen jawab de
 
 <div align="center">
     <a href="https://claude.ai/" target="_blank">
-       <img src="./images/claude-ai-768x385.webp" alt="claude" style=" border: 2px solid #ddd; border-radius: 8px;">
+       <img src="./images/claude-ai-768x385.webp" alt="claude" style=" border: 2px solid #ddd; border-radius: 8px; cursor: pointer;">
     </a>
 </div>
 
@@ -73,7 +67,7 @@ Claude AI aik advanced AI assistant hai jo har din naye features aur behtareen p
 
 <div align="center">
     <a href="https://gemini.google.com/" target="_blank">
-       <img src="./images/gemini_ai.webp" alt="gemini" style=" border: 2px solid #ddd; border-radius: 8px;">
+       <img src="./images/gemini_ai.webp" alt="gemini" style=" border: 2px solid #ddd; border-radius: 8px; cursor: pointer;">
     </a>
 </div>
 
@@ -88,7 +82,7 @@ Gemini AI, Google ka advanced AI chat assistant hai jo ChatGPT ke saath performa
 
 <div align="center">
     <a href="https://poe.com" target="_blank">
-       <img src="./images/poe.webp" alt="poe" style=" border: 2px solid #ddd; border-radius: 8px;">
+       <img src="./images/poe.webp" alt="poe" style=" border: 2px solid #ddd; border-radius: 8px; cursor: pointer;">
     </a>
 </div>
 
